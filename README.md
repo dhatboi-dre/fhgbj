@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "Kanye West",
   "version": "0.1.2",
-  "author": "Sam Lanning <sam@samlanning.com>",
+  "author": "Kanye West <kanyewest.com>",
 
   "description": "Kanye West lmao.",
   "icons": {
